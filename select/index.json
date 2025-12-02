@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "旅路",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-02T19:34:38.142949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅路",
+      "artist": "片山修志( Team-MAX)",
+      "has_synced": false,
+      "path": "select/01_旅路_片山修志(_Team-MAX).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅路",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/02_旅路_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "旅路(夢中飛行)",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/03_旅路(夢中飛行)_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "旅路",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/04_旅路_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "旅路 - Tabiji",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_旅路_-_Tabiji_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_06_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "旅路",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_07_旅路_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "旅路 (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_08_旅路_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
